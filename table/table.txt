@@ -1,0 +1,8 @@
+Surname    Name      Work   Year  Remain  Country
+Matsumoto  Yukihiro  Ruby   1965  //      Japan
+Moolenar   Bram      Vim    1961  //      Netherlands
+Ritchie    Dennis    C      1941  //      USA
+Stallman   Richard   GNU    1953  //      USA
+Thompson   Ken       Unix   1943  //      USA
+Tridgell   Andrew    Samba  1967  //      Australia
+Wall       Larry     Perl   1954  //      USA
