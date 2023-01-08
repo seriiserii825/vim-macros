@@ -4,3 +4,10 @@ yyp
 100@a
 ```
 
+## person incement number, capital name, money 0
+```
+qa
+w100wwwwvUwwwwcw0jjj^
+:% normal @a
+```
+
