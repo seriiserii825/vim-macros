@@ -1,0 +1,6 @@
+Person 1;Name: charlie;Money: 500
+Person 2;Name: charlie;Money: 200
+Person 3;Name: charlie;Money: 300
+Person 4;Name: charlie;Money: 100
+Person 5;Name: charlie;Money: 900
+Person 6;Name: charlie;Money: 700
