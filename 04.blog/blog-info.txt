@@ -12,9 +12,15 @@ VGyGp$/Writen$h?MY POST
 sed -i '/^$/d' blog.txt
 ```
 
-### clear blogs from meta data
+### clear one blog from meta data
 ```
 qb
 vf-lxjdd/(Wrie€kbtendd
-20@b
+```
+
+### move blog to sidebar
+```
+qc
+@bggV/MY€kb€kb€kb/MY po€kb€kbPOSTkV?Postjkx€üLpGojj€üH
+
 ```
