@@ -3,13 +3,8 @@
 ### increment post number, increment date, create 50 posts
 ```
 qa
-VGyGp$/Writen$h?MY POST
-50@a
-```
-
-### remove empty lines
-```
-sed -i '/^$/d' blog.txt
+VGyGojjp
+20@a
 ```
 
 ### clear one blog from meta data
