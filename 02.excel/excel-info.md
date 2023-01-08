@@ -1,7 +1,7 @@
 ## remove all columns except first 5
 ```
 qr
-f,;;;;D
+f,;;;;Dj^
 :2,$ normal @r
 ```
 ## create line
